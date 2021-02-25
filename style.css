@@ -1,0 +1,86 @@
+.unnamed1 {  font-size: 14px; line-height: 24px}
+.unnamed2 {  font-size: 12px; line-height: 21px}
+a:link {  color: #000000; text-decoration: none}
+a:hover {  color: #000066; text-decoration: underline}
+a:active {  color: #000066; text-decoration: underline}
+a:visited {  color: #000000; text-decoration: none}
+.unnamed3 {  font-size: 13px}
+.unnamed4 {  font-size: 18px; line-height: 25px}
+.unnamed5 {  font-size: 24px}
+
+.defaultfont { FONT-SIZE: 12px; font-family: "Verdana", "Helvetica", "sans-serif";line-height: 24px; }
+
+BODY { font-family:"Verdana", "Helvetica", "sans-serif";  }
+TD { FONT-SIZE: 12px;FONT-FAMILY: "Verdana", "Helvetica", "sans-serif"; }
+P { font-family: "Verdana", "Helvetica", "sans-serif";}
+INPUT {	FONT-SIZE: 12px; FONT-FAMILY: "Verdana", "Helvetica", "sans-serif"; }
+SELECT { FONT-SIZE: 12px; FONT-FAMILY: "Verdana", "Helvetica", "sans-serif";}
+
+.defaultBG22 {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(https://www.fmprc.gov.cn/ce/ceun/eng/images/top.jpg); BACKGROUND-REPEAT: no-repeat
+}
+
+A:link { COLOR: #0000ff; TEXT-DECORATION: none }
+A:visited { COLOR: #0000ff; TEXT-DECORATION: none }
+A:active { COLOR: #cb0800; TEXT-DECORATION: none  }
+A:hover { COLOR: #bb741a; TEXT-DECORATION: none  }
+
+A.toplinks:link { FONT-SIZE: 14px; COLOR: #000000; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold; }
+A.toplinks:visited { FONT-SIZE: 14px; COLOR: #000000; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold; }
+A.toplinks:active { FONT-SIZE: 14px; COLOR: #cb0800; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold; }
+A.toplinks:hover { FONT-SIZE: 14px; COLOR: #bb741a; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold; }
+
+A.leftchnlname:link { FONT-SIZE: 14px; COLOR: #FFFFFF; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold;}
+A.leftchnlname:visited { FONT-SIZE: 14px; COLOR: #FFFFFF; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold;}
+A.leftchnlname:active { FONT-SIZE: 14px; COLOR: #cb0800; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold;}
+A.leftchnlname:hover { FONT-SIZE: 14px; COLOR: #bb741a; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold;}
+
+A.leftlinks:link { FONT-SIZE: 14px; COLOR: #ffffff; TEXT-DECORATION: none ; line-height: 24px; }
+A.leftlinks:visited { FONT-SIZE: 14px; COLOR: #ffffff; TEXT-DECORATION: none ; line-height: 24px; }
+A.leftlinks:active { FONT-SIZE: 14px; COLOR: #cb0800; TEXT-DECORATION: none ; line-height: 24px; }
+A.leftlinks:hover { FONT-SIZE: 14px; COLOR: #bb741a; TEXT-DECORATION: none ; line-height: 24px; }
+
+A.lefttext:link { FONT-SIZE: 12px;  COLOR: #000000; TEXT-DECORATION: none ; line-height: 21px;}
+A.lefttext:visited { FONT-SIZE: 12px;  COLOR: #000000; TEXT-DECORATION: none ; line-height: 21px;}
+A.lefttext:active { FONT-SIZE: 12px;  COLOR: #cb0800; TEXT-DECORATION:none; line-height: 21px;}
+A.lefttext:hover { FONT-SIZE: 12px;  COLOR: #bb741a; TEXT-DECORATION: none; line-height: 21px;}
+
+a.bigtitle:link {  color: #01359F; text-decoration: none; font-size:18px; font-weight:bold; line-height: 25px;}
+a.bigtitle:hover {  color: #bb741a; text-decoration: none; font-size:18px; font-weight:bold; line-height: 25px;}
+a.bigtitle:active {  color: #cb0800; text-decoration: none; font-size:18px; font-weight:bold; line-height: 25px;}
+a.bigtitle:visited {  color: #01359F; text-decoration: none; font-size:18px; font-weight:bold; line-height: 25px;}
+
+A.subtext:link { FONT-SIZE: 14px; COLOR: #01359F; TEXT-DECORATION: none ; line-height: 24px; }
+A.subtext:visited { FONT-SIZE: 14px; COLOR: #01359F; TEXT-DECORATION: none ; line-height: 24px; }
+A.subtext:active { FONT-SIZE: 14px; COLOR: #cb0800; TEXT-DECORATION: none ; line-height: 24px; }
+A.subtext:hover { FONT-SIZE: 14px; COLOR: #bb741a; TEXT-DECORATION: none ; line-height: 24px; }
+
+A.subcon:link { FONT-SIZE: 12px; COLOR: #01359F; TEXT-DECORATION: none ; line-height: 21px; }
+A.subcon:visited { FONT-SIZE: 12px; COLOR: #01359F; TEXT-DECORATION: none ; line-height: 21px; }
+A.subcon:active { FONT-SIZE: 12px; COLOR: #cb0800; TEXT-DECORATION: none ; line-height: 21px; }
+A.subcon:hover { FONT-SIZE: 12px; COLOR: #bb741a; TEXT-DECORATION: none ; line-height: 21px; }
+
+A.subcon1:link { FONT-SIZE: 12px; COLOR: #01359F; TEXT-DECORATION: none ; line-height: 18px; }
+A.subcon1:visited { FONT-SIZE: 12px; COLOR: #01359F; TEXT-DECORATION: none ; line-height: 18px; }
+A.subcon1:active { FONT-SIZE: 12px; COLOR: #cb0800; TEXT-DECORATION: none ; line-height: 18px; }
+A.subcon1:hover { FONT-SIZE: 12px; COLOR: #bb741a; TEXT-DECORATION: none ; line-height: 18px; }
+
+A.rightlinks:link { FONT-SIZE: 14px; COLOR: #333333; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold; }
+A.rightlinks:visited { FONT-SIZE: 14px; COLOR: #333333; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold; }
+A.rightlinks:active { FONT-SIZE: 14px; COLOR: #cb0800; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold; }
+A.rightlinks:hover { FONT-SIZE: 14px; COLOR: #bb741a; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold; }
+
+A.sutext:link { FONT-SIZE: 13px;  COLOR: #000000; TEXT-DECORATION: none ; line-height: 21px; font-weight: bold;}
+A.sutext:visited { FONT-SIZE: 13px;  COLOR: #000000; TEXT-DECORATION: none ; line-height: 21px; font-weight: bold;}
+A.sutext:active { FONT-SIZE: 13px;  COLOR: #cb0800; TEXT-DECORATION:none; line-height: 21px; font-weight: bold;}
+A.sutext:hover { FONT-SIZE: 13px;  COLOR: #bb741a; TEXT-DECORATION: none; line-height: 21px; font-weight: bold;}
+
+A.gllinks:link { FONT-SIZE: 14px; COLOR: #913A01; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold; }
+A.gllinks:visited { FONT-SIZE: 14px; COLOR: #913A01; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold; }
+A.gllinks:active { FONT-SIZE: 14px; COLOR: #cb0800; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold; }
+A.gllinks:hover { FONT-SIZE: 14px; COLOR: #bb741a; TEXT-DECORATION: none ; line-height: 24px; font-weight: bold; }
+
+A.sublinks:link { FONT-SIZE: 14px; COLOR: #000000; TEXT-DECORATION: none ; line-height: 24px; }
+A.sublinks:visited { FONT-SIZE: 14px; COLOR: #000000; TEXT-DECORATION: none ; line-height: 24px;  }
+A.sublinks:active { FONT-SIZE: 14px; COLOR: #cb0800; TEXT-DECORATION: none ; line-height: 24px; }
+A.sublinks:hover { FONT-SIZE: 14px; COLOR: #bb741a; TEXT-DECORATION: none ; line-height: 24px;  }
